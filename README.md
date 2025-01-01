@@ -2,7 +2,7 @@
 유튜브 영상을 빠르게 다운로드
 
 ## 시작하기 전
-- Python 3.0
+- Python 3+
 - [ffmpeg](https://ffmpeg.org/)
 
 ### 파이썬 세팅
