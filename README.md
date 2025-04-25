@@ -14,7 +14,7 @@ pip install termcolor
 위 두 명령어를 실행하지 않으면 당연하게도 오류가 발생합니다.
 
 ### ffmpeg
-`C:\ffmpeg`에 다운로드 받은 모든 파일을 옴기고, 시스템 환경변수 `Path`에 `C:\ffmpeg\bin` 을 추가하세요.
+`C:\ffmpeg`에 다운로드 받은 모든 파일을 옮기고, 시스템 환경변수 `Path`에 `C:\ffmpeg\bin` 을 추가하세요.
 
 ## 실행하기
 ```bat
