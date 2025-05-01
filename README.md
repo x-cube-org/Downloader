@@ -1,5 +1,5 @@
 # Downloader
-유튜브 영상을 빠르게 다운로드
+유튜브 영상 및 썸네일을 빠르게 다운로드
 
 ## 시작하기 전
 - Python 3+
@@ -9,6 +9,7 @@
 ```bat
 pip install yt-dlp
 pip install termcolor
+pip install requests
 ```
 
 위 두 명령어를 실행하지 않으면 당연하게도 오류가 발생합니다.
@@ -40,5 +41,8 @@ py downloader.py
 - 비디오+오디오 통합(영상 전체)
 - 비디오 한정
 - 오디오 한정
+
+## 다운로드되는 썸네일 영상 플랫폼
+- 유튜브
 
 @ 주의사항 : 자막은 다운로드되지 않습니다. @
